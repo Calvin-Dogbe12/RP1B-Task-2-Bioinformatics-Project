@@ -20,7 +20,7 @@ Part 2: Multi-Caller Pipeline Overview
 - Compares combined vs. individual caller performance
 - Pathway for part 2 ~/shared-team/people/calvin/Task2/part2
 
-- Pathway for 
+ 
 
 ### Step 1.1: Load Helper Functions
 
